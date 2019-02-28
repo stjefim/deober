@@ -10,4 +10,6 @@ Pass a string with directory of the jar file that we need to create the control 
 
 The main class is called RSdeob.
 
+Repository contains example jar file(ex.jar)
+
 Contributors: Stanislavs Jefimovs, Julius Gaidys.
